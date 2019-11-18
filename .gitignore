@@ -1,0 +1,15 @@
+.git
+.idea
+*.log
+!.gitignore
+/composer.lock
+/vendor
+/app/config/development
+/app/config/my
+env.ini
+/app/config/.DS_Store
+.DS_Store
+.phpunit.result.cache
+/app/public/node_modules
+/app/public/develop
+app/public/install/lock
